@@ -1,0 +1,4 @@
+inhoud van config.txt
+en nog een regel
+url voor nukkit is dit: bla
+en usb naam moet zijn: blaa
