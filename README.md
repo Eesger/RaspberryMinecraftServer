@@ -8,3 +8,6 @@ https://gist.github.com/guestl/858e882a37442316fd7cdb0ca1b8e3a5#file-menu-py
 
 Also use this source to setup a config file and extract code examples to read/write data from it:
 https://docs.python.org/3/library/configparser.html
+
+And this:
+https://stackoverflow.com/questions/18256363/how-do-i-print-the-content-of-a-txt-file-in-python
